@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AuImage.qml</file>
+        <file>CreateImage.js</file>
+        <file>images/a7.png</file>
+        <file>images/a6.png</file>
+        <file>images/a5.png</file>
+        <file>images/a2.png</file>
+    </qresource>
+</RCC>
